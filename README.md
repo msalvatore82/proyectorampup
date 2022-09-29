@@ -4,7 +4,8 @@ Mi portfolio esta diseñado para que contenga toda la infomacion con el mismo fo
 Tecnologías que he utilizado 🛠️
 Para el desarrollo de la misma eh utilizado HTML y CSS
 
-Preview 
+Preview
+
 ![foto](Assets/gif/1.gif)
 
 ![foto](Assets/gif/2.gif)
